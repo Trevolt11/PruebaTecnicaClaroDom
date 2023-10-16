@@ -1,7 +1,7 @@
 ﻿using System;
-using ClaroDomTest.Models;
+using WebApi.Models;
 
-namespace ClaroDomTest.Service
+namespace WebApi.Service
 {
 	public class BookService : IBookService
     {

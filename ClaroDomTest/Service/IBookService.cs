@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using ClaroDomTest.Models;
+using WebApi.Models;
 
-namespace ClaroDomTest.Service
+namespace WebApi.Service
 {
     public interface IBookService
     {

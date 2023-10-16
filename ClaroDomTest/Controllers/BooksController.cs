@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Net.Http;
-using System.Net.Http.Json;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using ClaroDomTest.Models;
-using ClaroDomTest.Service;
+﻿using Microsoft.AspNetCore.Mvc;
+using WebApi.Models;
+using WebApi.Service;
 
-namespace ClaroDomTest.Controllers
+namespace WebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

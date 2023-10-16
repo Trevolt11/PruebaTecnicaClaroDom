@@ -1,4 +1,4 @@
-﻿using ClaroDomTest.Service;
+﻿using WebApi.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
